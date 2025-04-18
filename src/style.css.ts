@@ -58,6 +58,7 @@ const product = style({
   padding: "1rem",
   display: "flex",
   justifyContent: "space-between",
+  alignItems: "center",
   gap: "0.2rem",
 });
 
