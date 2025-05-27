@@ -35,9 +35,8 @@ const familyProducts: Array<Product> = [
 
 const products: Array<Product> = [
   {
-    title: "Ставка 11% — обязательные траты ниже",
-    line: "20 000 ₽/мес.",
-    text: "15 000 ₽/мес.",
+    title: "Ставка 11% — меньше трат, выше процент",
+    text: `На накопительном счёте за покупки от 15\u00A0000\u00A0₽ вместо 20\u00A0000\u00A0₽`,
     image: percent,
   },
   {
